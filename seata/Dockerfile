@@ -1,1 +1,1 @@
-FROM apache/seata-server:2.4.0
+FROM apache/seata-server:2.0.0
