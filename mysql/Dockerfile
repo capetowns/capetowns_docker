@@ -1,1 +1,1 @@
-FROM docker pull --platform linux/arm64 kubesphere/ks-jenkins:v3.4.0-2.319.3-1
+FROM --platform linux/arm64 kubesphere/ks-jenkins:v3.4.0-2.319.3-1
