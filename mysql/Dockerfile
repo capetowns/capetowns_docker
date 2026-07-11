@@ -1,1 +1,1 @@
-FROM mysql:8.0.45
+FROM docker pull --platform linux/arm64 kubesphere/ks-jenkins:v3.4.0-2.319.3-1
